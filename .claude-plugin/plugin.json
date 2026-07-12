@@ -1,0 +1,9 @@
+{
+  "name": "sprint-pipeline",
+  "description": "Idea → PRD/TRD → rolling-wave sprint plan → reviewed PRs: a planning and implementation pipeline for Claude Code (2 agents + 3 skills).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Fenil Dave",
+    "email": "fenil1104dave@gmail.com"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fenildave",
+  "owner": {
+    "name": "Fenil Dave",
+    "email": "fenil1104dave@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "sprint-pipeline",
+      "source": "./",
+      "description": "Idea → PRD/TRD → rolling-wave sprint plan → reviewed PRs: a planning and implementation pipeline for Claude Code (2 agents + 3 skills)."
+    }
+  ]
+}
